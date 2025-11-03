@@ -1,5 +1,16 @@
 #  About Me:
-🛰 I’m currently working on<br>Building a full-stack AI Robotics Club website and real-time sentiment analysis dashboard using React, FastAPI, and MongoDB.<br><br> I’m looking to collaborate on<br>Open-source AI/ML projects, real-time web apps, or anything with FastAPI and React.<br><br> I’m looking for help with<br>Optimizing AI model performance, n8n workflow integration, and deploying Docker-based apps.<br><br> I’m currently learning<br>Machine Learning algorithms, Docker & containerization, and scalable backend development with FastAPI.<br><br> Ask me about<br>Sentiment analysis dashboards, and full-stack project development.<br>
+<br> I’m looking to collaborate on<br>
+AI-driven web applications, automation workflows, or open-source projects involving FastAPI, React, and MongoDB.<br><br>
+
+I’m looking for help with<br>
+Integrating AI models into production, building scalable microservices, and improving MLOps pipelines using Docker and CI/CD.<br><br>
+
+I’m currently learning<br>
+Advanced Machine Learning concepts, cloud deployment (Render, AWS, Vercel), and system design for high-performance backend systems.<br><br>
+
+Ask me about<br>
+Full-stack AI applications, FastAPI-React integrations, and real-time data visualization dashboards.<br>
+
 
 
 
