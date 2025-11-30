@@ -1,8 +1,6 @@
-# 👋 About Me
+# 👋 Hi, I'm **Ritesh** 
 
-Hi, I'm **Ritesh**  
-Computer Science undergrad passionate about building tech that actually makes an impact.
-
+Computer Science undergrad passionate about building scalable, impactful tech that solves real-world problems and makes a difference.
 ---
 
 ### 🚀 I’m looking to collaborate on
