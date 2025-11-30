@@ -1,4 +1,7 @@
 #  About Me:
+Hi, I'm Ritesh 👋
+I'm a Computer Science undergrad passionate about building tech that matters
+
 <br> I’m looking to collaborate on<br>
 AI-driven web applications, automation workflows, or open-source projects involving FastAPI, React, and MongoDB.<br><br>
 
@@ -6,13 +9,22 @@ I’m looking for help with<br>
 Integrating AI models into production, building scalable microservices, and improving MLOps pipelines using Docker and CI/CD.<br><br>
 
 I’m currently learning<br>
-Advanced Machine Learning concepts, cloud deployment (Render, AWS, Vercel), and system design for high-performance backend systems.<br><br>
+Advanced DevOps and DevSecOps concepts, cloud deployment and system design for high-performance backend systems.<br><br>
 
-Ask me about<br>
-Full-stack AI applications, FastAPI-React integrations, and real-time data visualization dashboards.<br>
+🔧 Currently Exploring
+DevOps :- 
+Linux, Docker, kubernetes, Terraform, Ansible, ArgoCD.
+For CICD :- Jenkins, Gitlab
+For Monitoring :- Prometheus and Graphana.
+Git & GitHub for DevOps-style workflows
+AI/ML with real-world applications
 
-
-
+📘 Recent Projects
+Student Advisor Portal –  Built a Student Advisor Portal with an AI Roadmap mentor, resume ATS evaluator, and Real time community platform for Students Doubt Solving, improving student career readiness by 30%.
+ FinZer– AI-Powered Personal Finance Coach –  Developed a full-stack AI-driven finance platform to help users manage expenses, analyze spending patterns, and get smart investment insights.
+ Sentiment Analysis Dashboard –  • Built a real-time dashboard using machine learning to analyze user reviews and visualize sentiment trends.
+ • Designed an interactive web interface with dynamic charts for quick, data-driven insights
+ Full-Stack Ecommerce Web :- Product browsing, cart & checkout flow, secure auth, online payments, and admin dashboard for product & order management. Responsive UI with real-time updates and smooth user experience. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ritesh._18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ritesh Solke) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ritesh Solke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshsolke12@gmail.com) 
