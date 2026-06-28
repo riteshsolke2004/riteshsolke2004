@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Ritesh** 
 
 Computer Science undergrad passionate about building scalable, impactful tech that solves real-world problems and makes a difference.
----
+---   
 
 ### 🚀 I’m looking to collaborate on
 AI-driven web apps, automation workflows, and open-source projects using **FastAPI, React, and MongoDB**.
